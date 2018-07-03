@@ -1,0 +1,17 @@
+
+.m {
+     margin-top: 70px;
+     width: 700px;
+     height: 800px;
+     /*background-color: #A3E8E0;*/
+     /*border: 10px solid blue;*/
+     margin: 0 auto;
+     margin-top: 70px;
+ }
+
+
+.map {
+    margin: 0 auto;
+    margin-top: 25px;
+    width: 600px;
+}

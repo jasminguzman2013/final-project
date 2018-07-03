@@ -1,0 +1,51 @@
+
+
+/*Main styles*/
+.columns {
+    width: 100px;
+}
+
+.col {
+    
+}
+
+/*End of Main Styles*/
+
+/*Start colums*/
+.about-container {
+    height: 600px;
+    padding-top: 100px;
+    overflow: auto;
+}
+
+
+.column {
+    /*border: 2px solid #3c5798;*/
+    width: 30%;
+    height: 555px;
+    padding: 5px;
+    margin: 12px;
+    float: left;
+    text-align: center;
+}
+
+.about {
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.video {
+    margin: 0 auto;
+}
+
+.ig {
+    height: 500px;
+    width: 350px;
+    
+}
+
+.latinflags {
+    
+}
+
+/*end columns*/
